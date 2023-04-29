@@ -5,7 +5,7 @@
 
 ### Welcome to my profile 👋🏼
 
-My name is Flávio, I'am FullStack JavaScript Developer.
+My name is Flávio, I'am I'm majoring in Economics.
 
-- ❤️ In love with JavaScript and TypeScript
-- 🌱 Currently program my own startup app 🚀
+- I am currently interested in Regional and Urban Economics.
+- Focused in banking geography.
