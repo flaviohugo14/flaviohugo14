@@ -5,7 +5,4 @@
 
 ### Welcome to my profile 👋🏼
 
-My name is Flávio, I'am I'm majoring in Economics.
-
-- I am currently interested in Regional and Urban Economics.
-- Focused in banking geography.
+My name is Flávio, I'am majoring in Economics and working with Data Engineering at Tembici.
